@@ -9,7 +9,7 @@ var TryFuncs = []TryFunc{
 	TryInt64,
 	TryUint32,
 	TryUint64,
-	TryFloat32,
+	//TryFloat32,
 	TryFloat64,
 	TryBool,
 }
